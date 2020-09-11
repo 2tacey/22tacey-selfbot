@@ -1,0 +1,23 @@
+{
+    "prefix": ">",
+    "allowOtherPeople": false,
+    "tokens": [""],
+    "cycle": "not set",
+    "presets": [
+        {
+            "1":"not set", 
+            "2":"not set", 
+            "3":"not set", 
+            "4":"not set", 
+            "5":"not set", 
+            "6":"not set", 
+            "7":"not set", 
+            "8":"not set", 
+            "9":"not set", 
+            "10":"not set", 
+            "11":"not set", 
+            "12":"not set", 
+            "13":"not set"
+        }
+    ]
+}
